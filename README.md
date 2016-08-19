@@ -6,6 +6,8 @@ environments, or the JVM, though the initial target was [Clojurescript AWS
 Lambda functions](https://github.com/nervous-systems/cljs-lambda).  Features
 intrinsic support for [Timbre](https://github.com/ptaoussanis/timbre).
 
+[![Clojars Project](https://img.shields.io/clojars/v/io.nervous/cljs-rollbar.svg)](https://clojars.org/io.nervous/cljs-rollbar)
+
 # Usage
 
 The model ought to be fairly familiar - there's a function `rollbar!`, which
